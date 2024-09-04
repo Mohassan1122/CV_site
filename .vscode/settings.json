@@ -1,0 +1,22 @@
+{
+    "editor.codeActionsOnSave": {},
+    "editor.formatOnSave": false,
+    "[php]": {
+        "editor.formatOnSave": true
+    },
+    "emmet.triggerExpansionOnTab": true, // enable tab to expanse emmet tags
+   
+    "laravel_goto_view.folders": {
+        "default": "/resources/views",
+        "theme_xxx": "/resources/views/theme_xxx"
+    },
+    "laravel_goto_view.extensions": [
+        ".blade.php",
+        ".inky.php"
+    ],
+    "blade.format.enable": true,
+    "[blade]": {
+        "editor.autoClosingBrackets": "always",
+        "editor.defaultFormatter": "onecentlin.laravel-blade",
+    },
+}
